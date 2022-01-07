@@ -1,0 +1,26 @@
+de/kai_morich/simple_bluetooth_terminal/SerialListener.java
+ de.kai_morich.simple_bluetooth_terminal.SerialListener
+de/kai_morich/simple_bluetooth_terminal/DevicesFragment.java
+ de.kai_morich.simple_bluetooth_terminal.DevicesFragment
+ de.kai_morich.simple_bluetooth_terminal.DevicesFragment$1
+de/kai_morich/simple_bluetooth_terminal/TextUtil.java
+ de.kai_morich.simple_bluetooth_terminal.TextUtil
+ de.kai_morich.simple_bluetooth_terminal.TextUtil$HexWatcher
+de/kai_morich/simple_bluetooth_terminal/Constants.java
+ de.kai_morich.simple_bluetooth_terminal.Constants
+de/kai_morich/simple_bluetooth_terminal/BuildConfig.java
+ de.kai_morich.simple_bluetooth_terminal.BuildConfig
+de/kai_morich/simple_bluetooth_terminal/MainActivity.java
+ de.kai_morich.simple_bluetooth_terminal.MainActivity
+de/kai_morich/simple_bluetooth_terminal/SerialSocket.java
+ de.kai_morich.simple_bluetooth_terminal.SerialSocket
+ de.kai_morich.simple_bluetooth_terminal.SerialSocket$1
+de/kai_morich/simple_bluetooth_terminal/TerminalFragment.java
+ de.kai_morich.simple_bluetooth_terminal.TerminalFragment
+ de.kai_morich.simple_bluetooth_terminal.TerminalFragment$Connected
+de/kai_morich/simple_bluetooth_terminal/SerialService.java
+ de.kai_morich.simple_bluetooth_terminal.SerialService
+ de.kai_morich.simple_bluetooth_terminal.SerialService$1
+ de.kai_morich.simple_bluetooth_terminal.SerialService$QueueItem
+ de.kai_morich.simple_bluetooth_terminal.SerialService$QueueType
+ de.kai_morich.simple_bluetooth_terminal.SerialService$SerialBinder
